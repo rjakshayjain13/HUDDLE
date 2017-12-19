@@ -1,0 +1,712 @@
+ID,Name,Team,Position,Availability,Selection,EA_Index,Price
+1,Wojciech Szczesny,Arsenal,GK,100,4.7,172,5.2
+2,Laurent Koscielny,Arsenal,DEF,100,9.9,387,6.1
+3,Thomas Vermaelen,Arsenal,DEF,0,0.1,0,5
+4,Kieran Gibbs,Arsenal,DEF,100,1.7,262,5.2
+5,Carl Jenkinson,West Ham,DEF,100,0.8,369,5
+6,Per Mertesacker,Arsenal,DEF,100,5.2,413,6.1
+7,Nacho Monreal,Arsenal,DEF,100,3.5,361,4.9
+8,Isaac Hayden,Arsenal,DEF,,0.1,0,4.3
+9,Hector Bellerin,Arsenal,DEF,100,6.9,302,4.8
+10,Jack Wilshere,Arsenal,MD,100,2.3,161,6.3
+11,Theo Walcott,Arsenal,MD,100,0.4,195,8.2
+12,Aaron Ramsey,Arsenal,MD,100,13.4,403,8.8
+13,Tomas Rosicky,Arsenal,MD,100,0.5,155,4.6
+14,Mikel Arteta,Arsenal,MD,0,0.7,75,5.2
+15,Alex Oxlade-Chamberlain,Arsenal,MD,100,1,270,6.2
+16,Santiago Cazorla,Arsenal,MD,,14.8,798,8.4
+17,Vassiriki Diaby,Arsenal,MD,100,0,0,4.7
+18,Serge Gnabry,Arsenal,MD,100,0,0,4.8
+19,Gedion Zelalem,Arsenal,MD,,0,0,4.7
+20,Mathieu Flamini,Arsenal,MD,100,0.2,225,4.8
+21,Mesut Özil,Arsenal,MD,100,4.4,463,9
+22,Ryo Miyaichi,Arsenal,MD,100,0,0,4.5
+23,Alexis Sánchez,Arsenal,MD,100,37.2,888,11.6
+24,Lukas Podolski,Arsenal,FWD,100,0.4,14,7.2
+25,Olivier Giroud,Arsenal,FWD,100,19,511,8.7
+26,Yaya Sanogo,Crystal Palace,FWD,100,0.7,41,4.7
+27,Chuba Akpom,Arsenal,FWD,100,0,23,4.8
+28,Joel Campbell,Arsenal,FWD,0,0.4,5,5
+29,Shay Given,Aston Villa,GK,,7.3,37,4
+30,Bradley Guzan,Aston Villa,GK,,11.6,288,4.6
+31,Nathan Baker,Aston Villa,DEF,100,0.1,53,4.3
+32,Ciaran Clark,Aston Villa,DEF,0,0.6,236,4.2
+33,Matthew Lowton,Aston Villa,DEF,100,0.1,89,4
+34,Ron Vlaar,Aston Villa,DEF,100,9.3,137,4.3
+35,Joe Bennett,Aston Villa,DEF,,0,0,4.5
+36,Jores Okore,Aston Villa,DEF,100,0.4,227,4.2
+37,Antonio Luna,Aston Villa,DEF,0,0,0,4.5
+38,Janoi Donacien,Aston Villa,DEF,100,0.2,0,3.9
+39,Philippe Senderos,Aston Villa,DEF,100,0.9,74,4.3
+40,Fabian Delph,Aston Villa,MD,100,1.3,336,4.8
+41,Charles N'Zogbia,Aston Villa,MD,100,0.2,173,5.2
+42,Gary Gardner,Aston Villa,MD,0,0.1,0,4.3
+43,Karim El Ahmadi,Aston Villa,MD,0,2,0,4.4
+44,Ashley Westwood,Aston Villa,MD,100,0.3,261,4.7
+45,Leandro Bacuna,Aston Villa,MD,100,0.1,146,5
+46,Aleksandar Tonev,Aston Villa,MD,0,0,0,4.5
+47,Samir Carruthers,Aston Villa,MD,,0,0,4.5
+48,Daniel Johnson,Aston Villa,MD,100,0,0,4.4
+49,Jack Grealish,Aston Villa,MD,100,0.6,140,4.3
+50,Joe Cole,Aston Villa,MD,100,0.1,42,5.3
+51,Kieran Richardson,Aston Villa,MD,100,0.2,168,4.9
+52,Gabriel Agbonlahor,Aston Villa,FWD,100,1.6,327,5
+53,Andreas Weimann,Aston Villa,FWD,100,2.2,243,5.1
+54,Christian Benteke,Aston Villa,FWD,100,12.2,437,8
+55,Libor Kozák,Aston Villa,FWD,0,0,0,5.9
+56,Callum Robinson,Aston Villa,FWD,,0.1,0,4.3
+57,Darren Bent,Aston Villa,FWD,0,0.4,-1,4.6
+58,Thomas Heaton,Burnley,GK,,5.5,339,4.7
+59,Matthew Gilks,Burnley,GK,,3.1,0,3.9
+60,Michael Duff,Burnley,DEF,100,6.4,195,3.9
+61,Jason Shackell,Burnley,DEF,100,0.6,382,4.4
+62,Kevin Long,Burnley,DEF,100,0.6,1,3.8
+63,Daniel Lafferty,Burnley,DEF,100,0.5,2,3.9
+64,Ben Mee,Burnley,DEF,100,0.2,333,4.5
+65,Kieran Trippier,Burnley,DEF,100,2.2,506,4.8
+66,Dean Marney,Burnley,MD,100,0.3,162,4.2
+67,David Jones,Burnley,MD,100,0.7,331,4.5
+68,Ross Wallace,Burnley,MD,100,0.1,52,4.2
+69,Scott Arfield,Burnley,MD,100,0.4,316,4.7
+70,Michael Kightly,Burnley,MD,100,0.1,125,4.5
+71,Matthew Taylor,Burnley,MD,100,0.1,68,4.7
+72,Steven Reid,Burnley,MD,100,0.3,14,4.2
+73,Danny Ings,Burnley,FWD,100,4.2,471,5.5
+74,Sam Vokes,Burnley,FWD,100,0,57,5.3
+75,Ashley Barnes,Burnley,FWD,100,1,294,4.4
+76,Marvin Sordell,Burnley,FWD,,0,19,4.6
+77,Petr Cech,Chelsea,GK,100,1.7,103,5.4
+78,Thibaut Courtois,Chelsea,GK,100,9.9,384,5.9
+79,Gary Cahill,Chelsea,DEF,100,12.2,499,6.3
+80,John Terry,Chelsea,DEF,,22.7,613,7.1
+81,Branislav Ivanovic,Chelsea,DEF,100,30.2,561,7.7
+82,César Azpilicueta,Chelsea,DEF,100,8.4,438,6.2
+83,Nathan Aké,Chelsea,DEF,100,0.1,1,4.3
+84,Ryan Bertrand,Southampton,DEF,100,20.8,465,5.8
+85,Josh McEachran,Chelsea,MD,0,0,0,4.5
+86,Ramires Santos do Nascimento,Chelsea,MD,100,0.4,218,5.3
+87,John Obi Mikel,Chelsea,MD,100,0.4,109,4.3
+88,Lucas Piazon,Chelsea,MD,0,0,0,5
+89,Eden Hazard,Chelsea,MD,100,34.2,1002,10.8
+90,Oscar dos Santos Emboaba Junior,Chelsea,MD,100,4.2,509,7.9
+91,André Schürrle,Chelsea,MD,0,2.6,128,7.1
+92,Marco van Ginkel,Chelsea,MD,0,0,0,5.9
+93,Isaiah Brown,Chelsea,MD,,0,1,4.3
+94,Willian Borges Da Silva,Chelsea,MD,100,0.9,462,7.7
+95,Nemanja Matic,Chelsea,MD,100,3.5,564,5.5
+96,Mohamed Salah,Chelsea,MD,0,0.2,1,6
+97,Lewis Baker,Chelsea,MD,100,0,0,4.8
+98,John Swift,Chelsea,MD,0,0,0,4.5
+99,Victor Moses,Stoke,MD,0,0.3,293,5
+100,Cesc Fàbregas,Chelsea,MD,100,26.5,755,9.1
+101,Fernando Torres,Chelsea,FWD,0,0.3,0,7.3
+102,Demba Ba,Chelsea,FWD,,0,0,7
+103,Romelu Lukaku,Everton,FWD,100,7.3,580,8.7
+104,Julian Speroni,Crystal Palace,GK,100,3,321,4.8
+105,Wayne Hennessey,Crystal Palace,GK,,0.2,32,4.3
+106,Joel Ward,Crystal Palace,DEF,100,2.7,383,4.7
+107,Damien Delaney,Crystal Palace,DEF,100,0.5,264,4.9
+108,Patrick McCarthy,Crystal Palace,DEF,100,0.4,0,3.9
+109,Jack Hunt,Crystal Palace,DEF,100,0,0,4
+110,Adrian Mariappa,Crystal Palace,DEF,100,0.1,76,4.2
+111,Ryan Inniss,Crystal Palace,DEF,100,0.2,0,3.9
+112,Scott Dann,Crystal Palace,DEF,100,1.7,418,4.9
+113,Barry Bannan,Crystal Palace,MD,0,0,21,4.7
+114,Yannick Bolasie,Crystal Palace,MD,100,7,497,5.6
+115,Owen Garvan,Crystal Palace,MD,100,0,0,4.5
+116,Mile Jedinak,Crystal Palace,MD,100,2.2,369,5
+117,Jonathan Williams,Crystal Palace,MD,100,0,-3,4.8
+118,Jerome Thomas,Crystal Palace,MD,100,0,1,4.3
+119,Jason Puncheon,Crystal Palace,MD,100,5.1,508,5.5
+120,José Campaña,Crystal Palace,MD,0,0,0,4.5
+121,Stuart O'Keefe,Crystal Palace,MD,0,0,4,4.5
+122,Jimmy Kebe,Crystal Palace,MD,100,0,0,4.5
+123,Adlène Guédioura,Crystal Palace,MD,100,0,18,4.4
+124,Hiram Boateng,Crystal Palace,MD,,0.3,0,4.3
+125,Joe Ledley,Crystal Palace,MD,100,0.1,316,5.2
+126,Glenn Murray,Crystal Palace,FWD,100,1.4,287,4.5
+127,Dwight Gayle,Crystal Palace,FWD,100,0.7,213,4.5
+128,Stephen Dobbie,Crystal Palace,FWD,0,0,0,4.5
+129,Marouane Chamakh,Crystal Palace,FWD,100,0.4,164,5.2
+130,Tim Howard,Everton,GK,100,9.3,273,5.1
+131,Joel Robles,Everton,GK,,0.1,50,4.8
+132,Phil Jagielka,Everton,DEF,100,15.9,486,5.8
+133,Tony Hibbert,Everton,DEF,100,0.1,37,4.3
+134,Leighton Baines,Everton,DEF,100,13.1,481,7.1
+135,Sylvain Distin,Everton,DEF,100,1.4,139,5.2
+136,Shane Duffy,Everton,DEF,0,0.1,0,4
+137,Seamus Coleman,Everton,DEF,100,5.5,488,6.8
+138,Antolin Alcaraz,Everton,DEF,100,0.1,71,4.2
+139,John Stones,Everton,DEF,100,1.7,282,5.2
+140,Luke Garbutt,Everton,DEF,,0.3,20,3.9
+141,Tyias Browning,Everton,DEF,,0.2,5,4
+142,Bryan Oviedo,Everton,DEF,100,0,26,4.7
+143,Leon Osman,Everton,MD,100,0.5,277,5
+144,Darron Gibson,Everton,MD,100,0.4,61,4.2
+145,Ross Barkley,Everton,MD,100,3.3,318,6.6
+146,Steven Pienaar,Everton,MD,100,0.3,53,5.7
+147,Kevin Mirallas,Everton,MD,100,2,272,7.2
+148,James McCarthy,Everton,MD,100,1.4,371,4.6
+149,Aiden McGeady,Everton,MD,100,1,113,5.3
+150,Ryan Ledson,Everton,MD,,0,0,4.3
+151,Gareth Barry,Everton,MD,100,1.6,377,4.7
+152,Steven Naismith,Everton,FWD,100,10.8,381,4.7
+153,Arouna Koné,Everton,FWD,100,0.1,115,5.4
+154,Conor McAleny,Everton,FWD,0,0.1,0,4.3
+155,Allan McGregor,Hull,GK,100,2.3,208,4.7
+156,Steve Harper,Hull,GK,100,0.2,88,4.4
+157,Liam Rosenior,Hull,DEF,100,0.3,75,4.1
+158,James Chester,Hull,DEF,100,2.5,231,4.3
+159,Paul McShane,Hull,DEF,100,2.4,177,3.9
+160,Joe Dudgeon,Hull,DEF,100,0,0,3.9
+161,Alex Bruce,Hull,DEF,100,10.9,163,4
+162,Maynor Figueroa,Hull,DEF,100,0.4,7,4.1
+163,Curtis Davies,Hull,DEF,100,1.7,159,4.7
+164,Stephen Quinn,Hull,MD,100,0.7,221,4.4
+165,Robbie Brady,Hull,MD,100,0.2,255,4.4
+166,David Meyler,Hull,MD,100,0.1,187,4.7
+167,Ahmed Elmohamady,Hull,MD,100,2.4,463,5
+168,George Boyd,Burnley,MD,,6.2,385,4.5
+169,Tom Huddlestone,Hull,MD,100,1.2,283,5.3
+170,Jake Livermore,Hull,MD,0,0.5,305,5.1
+171,Sone Aluko,Hull,MD,100,0.1,164,4.4
+172,Tom Ince,Hull,MD,0,0.5,44,5
+173,Robert Snodgrass,Hull,MD,100,0.3,7,5.6
+174,Nikica Jelavic,Hull,FWD,100,1.1,225,5.6
+175,Nick Proschwitz,Hull,FWD,0,0,0,4.5
+176,Shane Long,Southampton,FWD,100,1.4,327,5.4
+177,Yannick Sagbo,Hull,FWD,100,0,6,4.9
+178,Kasper Schmeichel,Leicester,GK,100,4.9,249,4.5
+179,Ben Hamer,Leicester,GK,100,6.8,76,4
+180,Wes Morgan,Leicester,DEF,100,3.2,445,4.6
+181,Marcin Wasilewski,Leicester,DEF,100,5.3,209,3.9
+182,Liam Moore,Leicester,DEF,100,1.4,105,3.9
+183,Ritchie de Laet,Leicester,DEF,100,0.3,212,4.3
+184,Jeffrey Schlupp,Leicester,DEF,100,2.2,307,4.5
+185,Paul Konchesky,Leicester,DEF,100,0.6,241,4.4
+186,Matthew Upson,Leicester,DEF,100,0.5,34,3.9
+187,Daniel Drinkwater,Leicester,MD,100,0.1,149,5
+188,Dean Hammond,Leicester,MD,100,0.1,79,4.4
+189,Matthew James,Leicester,MD,0,0.1,183,4.4
+190,Riyad Mahrez,Leicester,MD,100,0.9,431,4.9
+191,Anthony Knockaert,Leicester,MD,100,0.1,39,5
+192,Andy King,Leicester,MD,100,1.6,184,4.2
+193,Gary Taylor-Fletcher,Leicester,MD,,0.4,0,4.2
+194,Marc Albrighton,Leicester,MD,100,3.1,225,4.3
+195,David Nugent,Leicester,FWD,100,0.4,272,4.9
+196,Jamie Vardy,Leicester,FWD,100,4.9,442,4.6
+197,Chris Wood,Leicester,FWD,100,0.8,15,4.3
+198,Jack Barmby,Leicester,FWD,,0.2,0,4.2
+199,Jose Reina,Liverpool,GK,0,0,0,5.5
+200,Simon Mignolet,Liverpool,GK,100,9.8,384,5.4
+201,Martin Kelly,Crystal Palace,DEF,,0.6,297,4.4
+202,Glen Johnson,Liverpool,DEF,100,0.7,178,5.2
+203,Martin Skrtel,Liverpool,DEF,100,9.1,405,5.9
+204,Daniel Agger,Liverpool,DEF,0,0.2,0,5.4
+205,José Enrique Sanchez Diaz,Liverpool,DEF,100,0.2,35,4.5
+206,Sebastián Coates,Sunderland,DEF,100,0.1,86,4.4
+207,Andre Wisdom,West Brom,DEF,100,13.5,208,4
+208,Conor Coady,Liverpool,DEF,0,0,0,4
+209,Kolo Touré,Liverpool,DEF,100,0.5,84,4.7
+210,Jon Flanagan,Liverpool,DEF,0,0.2,0,4.7
+211,Mamadou Sakho,Liverpool,DEF,100,0.8,184,5.1
+212,Tiago Ilori,Liverpool,DEF,0,0.1,0,4
+213,Brad Smith,Liverpool,DEF,0,0,0,4
+214,Steven Gerrard,Liverpool,MD,100,4,449,8.6
+215,Leiva Lucas,Liverpool,MD,100,1,220,4.3
+216,Jordan Henderson,Liverpool,MD,100,22,612,6.6
+217,Raheem Sterling,Liverpool,MD,100,28.4,673,8.3
+218,Joe Allen,Liverpool,MD,100,0.1,202,4.8
+219,Philippe Coutinho,Liverpool,MD,100,9.3,620,7.9
+220,Jordon Ibe,Liverpool,MD,100,0.5,92,4.3
+221,Jesús Fernández Saez,Liverpool,MD,0,0,0,4.7
+222,Jordan Rossiter,Liverpool,MD,100,0,0,4.4
+223,João Carlos Vilaça Teixeira,Liverpool,MD,0,0,0,4.5
+224,Oussama Assaidi,Liverpool,MD,0,0,46,4.8
+225,Emre Can,Liverpool,MD,100,0.3,294,5.2
+226,Adam Lallana,Liverpool,MD,100,0.5,350,8.3
+227,Daniel Sturridge,Liverpool,FWD,0,7.7,192,11.1
+228,Iago Aspas,Liverpool,FWD,,0,0,6
+229,Rickie Lambert,Liverpool,FWD,,1.8,163,6.8
+230,Fabio Borini,Liverpool,FWD,100,0.2,53,6
+231,Joe Hart,Man City,GK,,7,414,6.1
+232,Willy Caballero,Man City,GK,,0.1,30,5.1
+233,Aleksandar Kolarov,Man City,DEF,100,4.2,330,5.8
+234,Micah Richards,Man City,DEF,0,0.1,0,4.9
+235,Pablo Zabaleta,Man City,DEF,100,5.3,410,6.4
+236,Vincent Kompany,Man City,DEF,100,8.5,246,6.4
+237,Gaël Clichy,Man City,DEF,100,7.4,351,5.3
+238,Karim Rekik,Man City,DEF,0,0,0,4.5
+239,Matija Nastasic,Man City,DEF,0,0.2,0,5.1
+240,Dedryck Boyata,Man City,DEF,100,0.1,16,4.2
+241,Martín Demichelis,Man City,DEF,100,1.4,353,5.9
+242,Bacary Sagna,Man City,DEF,100,1.3,106,5.1
+243,Jack Rodwell,Sunderland,MD,100,1.4,221,4.7
+244,Samir Nasri,Man City,MD,100,1.7,372,8.2
+245,David Silva,Man City,MD,100,24.9,742,9.8
+246,Gnegneri Yaya Touré,Man City,MD,100,6.9,595,10.8
+247,James Milner,Man City,MD,100,1.7,427,5.4
+248,Francisco Javier García Fernández,Man City,MD,0,0.1,0,4.5
+249,Jesús Navas,Man City,MD,100,1.1,460,7.2
+250,Fernando Luiz Rosa,Man City,MD,100,0.8,439,6.8
+251,Scott Sinclair,Aston Villa,MD,100,0.2,54,4.9
+252,Fernando Francisco Reges,Man City,MD,100,0.5,337,4.8
+253,Edin Dzeko,Man City,FWD,100,3.7,202,7.9
+254,Sergio Agüero,Man City,FWD,100,30,915,12.9
+255,Álvaro Negredo,Man City,FWD,0,0,0,9
+256,Stevan Jovetic,Man City,FWD,100,2.8,236,7.8
+257,David de Gea,Man Utd,GK,100,22.2,424,5.8
+258,Anders Lindegaard,Man Utd,GK,,0.1,0,4.8
+259,Chris Smalling,Man Utd,DEF,100,1.9,340,5.3
+260,Phil Jones,Man Utd,DEF,100,2.5,258,5
+261,Rafael Pereira da Silva,Man Utd,DEF,100,0.5,89,5.1
+262,Patrice Evra,Man Utd,DEF,0,0.1,0,5.5
+263,Jonny Evans,Man Utd,DEF,100,0.3,172,5
+264,Guillermo Varela,Man Utd,DEF,0,0,0,4.3
+265,Michael Keane,Burnley,DEF,100,0.1,157,4.2
+266,Luke Shaw,Man Utd,DEF,100,2.5,135,5.7
+267,Juan Mata,Man Utd,MD,100,10.5,495,8.5
+268,Marouane Fellaini,Man Utd,MD,0,2,433,6.4
+269,Antonio Valencia,Man Utd,MD,100,0.7,468,5.7
+270,Luis Nani,Man Utd,MD,0,0.6,5,7
+271,Anderson Oliveira,Man Utd,MD,,0,3,4.7
+272,Michael Carrick,Man Utd,MD,100,0.1,293,5.4
+273,Darren Fletcher,West Brom,MD,,0.5,208,4.5
+274,Tom Cleverley,Aston Villa,MD,100,1.2,344,5.3
+275,Ashley Young,Man Utd,MD,100,2.9,397,5.1
+276,Nick Powell,Man Utd,MD,100,0,-6,4.4
+277,Shinji Kagawa,Man Utd,MD,0,0.2,0,6.3
+278,Jesse Lingard,Man Utd,MD,0,0.1,2,4.3
+279,Adnan Januzaj,Man Utd,MD,100,1.1,105,6.1
+280,Wilfried Zaha,Crystal Palace,MD,100,0.9,383,5.1
+281,Ander Herrera,Man Utd,MD,100,3.1,393,7.2
+282,Robin van Persie,Man Utd,FWD,100,2,482,12
+283,Javier Hernández,Man Utd,FWD,0,0.3,3,5.9
+284,Wayne Rooney,Man Utd,FWD,100,15.5,637,10.6
+285,Danny Welbeck,Arsenal,FWD,0,4.5,380,6.9
+286,James Wilson,Man Utd,FWD,100,0.3,74,4.3
+287,Tom Lawrence,Leicester,FWD,,0.1,-2,4.3
+288,Tim Krul,Newcastle,GK,100,12.8,277,4.4
+289,Robert Elliot,Newcastle,GK,100,2.4,20,4
+290,Michael Williamson,Newcastle,DEF,100,0.5,222,4.3
+291,Steven Taylor,Newcastle,DEF,100,2.9,95,3.8
+292,Fabricio Coloccini,Newcastle,DEF,100,3.3,292,4.5
+293,Ryan Taylor,Newcastle,DEF,100,0.1,111,4.4
+294,Davide Santon,Newcastle,DEF,0,0.1,0,4.3
+295,Mathieu Debuchy,Arsenal,DEF,0,4,147,5.2
+296,Mapou Yanga-Mbiwa,Newcastle,DEF,0,0.1,0,4.4
+297,Massadio Haidara,Newcastle,DEF,100,0.4,135,4.1
+298,Paul Dummett,Newcastle,DEF,100,4.7,201,4.1
+299,Lubomir Satka,Newcastle,DEF,,0.2,0,3.9
+300,Gabriel Obertan,Newcastle,MD,100,0.2,95,4.3
+301,Cheick Tioté,Newcastle,MD,100,1.1,113,4.3
+302,Hatem Ben Arfa,Newcastle,MD,0,0.5,33,5.5
+303,Shane Ferguson,Newcastle,MD,100,0,0,4.5
+304,Mehdi Abeid,Newcastle,MD,100,0,64,4.3
+305,Sylvain Marveaux,Newcastle,MD,0,0,0,4.5
+306,Gael Bigirimana,Newcastle,MD,0,0,0,4.4
+307,Vurnon Anita,Newcastle,MD,100,0.1,104,4.7
+308,Moussa Sissoko,Newcastle,MD,100,1.8,454,5.8
+309,Jack Colback,Newcastle,MD,100,2.9,439,4.7
+310,Jonás Gutiérrez,Newcastle,MD,100,0.3,98,4.2
+311,Yoan Gouffran,Newcastle,MD,100,0.5,260,6
+312,Sammy Ameobi,Newcastle,MD,100,2.4,233,4.2
+313,Siem de Jong,Newcastle,MD,100,0.4,27,6.8
+314,Papiss Demba Cissé,Newcastle,FWD,100,0.9,343,5.2
+315,Adam Campbell,Newcastle,FWD,100,0.1,0,4.4
+316,Adam Armstrong,Newcastle,FWD,100,0.2,18,4.3
+317,Ayoze Pérez Gutiérrez,Newcastle,FWD,,1.8,385,4.3
+318,Robert Green,QPR,GK,100,2.5,325,4.5
+319,Brian Murphy,QPR,GK,,1.8,0,3.9
+320,Richard Dunne,QPR,DEF,100,0.2,224,4.2
+321,Clint Hill,QPR,DEF,100,0.1,151,4.2
+322,Nedum Onuoha,QPR,DEF,100,0.1,163,4.3
+323,Suk-Young Yun,QPR,DEF,100,1.7,164,3.9
+324,Danny Simpson,Leicester,DEF,100,0.2,99,4.1
+325,Armand Traore,QPR,MD,100,0.3,68,4.3
+326,Alejandro Faurlin,QPR,MD,100,0.1,7,4.2
+327,Karl Henry,QPR,MD,,0.2,183,4.4
+328,Joey Barton,QPR,MD,100,0.2,325,4.8
+329,Jermaine Jenas,QPR,MD,,0.2,0,4.4
+330,Gary O'Neil,QPR,MD,,0,0,4.4
+331,Junior Hoilett,QPR,MD,,0.2,50,4.3
+332,Shaun Wright-Phillips,QPR,MD,,0.2,22,4.5
+333,Matthew Phillips,QPR,MD,,0.9,252,4.6
+334,Adel Taarabt,QPR,MD,100,0.1,17,5.3
+335,Loïc Remy,Chelsea,FWD,100,2.1,237,6.9
+336,Bobby Zamora,QPR,FWD,100,3.1,198,4.1
+337,Charlie Austin,QPR,FWD,100,16.5,769,6.1
+338,Paulo Gazzaniga,Southampton,GK,,0.1,18,4.3
+339,Artur Boruc,Southampton,GK,0,0.2,0,4.7
+340,Jos Hooiveld,Southampton,DEF,0,0.2,0,4
+341,Jose Fonte,Southampton,DEF,100,13.4,409,5.8
+342,Nathaniel Clyne,Southampton,DEF,100,32.5,442,5.9
+343,Maya Yoshida,Southampton,DEF,100,2.3,211,4.1
+344,Dejan Lovren,Liverpool,DEF,100,9.9,195,4.9
+345,Calum Chambers,Arsenal,DEF,100,6.5,234,4.5
+346,Jack Stephens,Southampton,DEF,,0.2,0,3.9
+347,Matt Targett,Southampton,DEF,100,0.4,28,3.9
+348,Jack Cork,Swansea,MD,100,1.8,290,4.3
+349,Morgan Schneiderlin,Southampton,MD,100,5.6,396,5.5
+350,Steven Davis,Southampton,MD,100,1.7,344,4.7
+351,James Ward-Prowse,Southampton,MD,100,1.1,302,4.8
+352,Gastón Ramírez,Hull,MD,100,0.1,151,5.4
+353,Victor Wanyama,Southampton,MD,100,3.9,324,4.6
+354,Lloyd Isgrove,Southampton,MD,100,0.5,1,4.2
+355,Harrison Reed,Southampton,MD,,0.1,63,4.3
+356,Dusan Tadic,Southampton,MD,100,3.6,499,7.4
+357,Billy Sharp,Southampton,FWD,0,0,0,4.5
+358,Jay Rodriguez,Southampton,FWD,0,0.1,0,7.3
+359,Emmanuel Mayuka,Southampton,FWD,100,0,4,4.7
+360,Pablo Osvaldo,Southampton,FWD,0,0,0,7
+361,Sam Gallagher,Southampton,FWD,100,0,0,4.7
+362,Graziano Pellè,Southampton,FWD,100,11.5,548,7.5
+363,Brad Friedel,Spurs,GK,,0.1,0,4.7
+364,Hugo Lloris,Spurs,GK,100,8.9,389,5.4
+365,Michael Dawson,Hull,DEF,100,1.5,267,4.6
+366,Danny Rose,Spurs,DEF,100,6.4,406,4.8
+367,Benoit Assou-Ekotto,Spurs,DEF,100,0.2,0,4.4
+368,Younes Kaboul,Spurs,DEF,100,1.6,108,4.6
+369,Kyle Walker,Spurs,DEF,100,0.6,201,5.8
+370,Kyle Naughton,Swansea,DEF,100,0.3,175,4
+371,Jan Vertonghen,Spurs,DEF,100,1.9,395,5.8
+372,Vlad Chiriches,Spurs,DEF,100,0.1,69,4.7
+373,Ezekiel Fryers,Crystal Palace,DEF,100,0,1,4.2
+374,Milos Veljkovic,Spurs,DEF,,0.2,0,3.9
+375,Ryan Fredericks,Spurs,DEF,0,0.1,0,4
+376,Mousa Dembélé,Spurs,MD,100,0.4,202,5
+377,Sandro Ranieri Guimaraes Cordeiro,QPR,MD,100,0.1,130,4.8
+378,Aaron Lennon,Everton,MD,100,0.7,225,6.2
+379,Iago Falque,Spurs,MD,0,0,0,4.5
+380,Tom Carroll,Swansea,MD,100,0.1,96,4.4
+381,Gylfi Sigurdsson,Swansea,MD,100,25,561,6.5
+382,José Paulo Bezerra Maciel Júnior,Spurs,MD,100,1,66,6.7
+383,Andros Townsend,Spurs,MD,100,0.4,175,6.2
+384,Nacer Chadli,Spurs,MD,100,11.1,564,6.2
+385,Etienne Capoue,Spurs,MD,100,0.1,118,4.8
+386,Erik Lamela,Spurs,MD,100,1.4,427,7.4
+387,Christian Eriksen,Spurs,MD,,18.4,641,7.9
+388,Nabil Bentaleb,Spurs,MD,100,0.9,309,4.3
+389,Harry Winks,Spurs,MD,,0,0,4.4
+390,Alex Pritchard,Spurs,MD,0,0,0,4.5
+391,Lewis Holtby,Spurs,MD,0,0.1,6,5.8
+392,Emmanuel Adebayor,Spurs,FWD,100,1.8,166,7.9
+393,Harry Kane,Spurs,FWD,,44.8,826,6
+394,Roberto Soldado,Spurs,FWD,100,0.8,111,7.6
+395,Asmir Begovic,Stoke,GK,100,5.5,352,4.8
+396,Thomas Sørensen,Stoke,GK,,0.2,0,4.3
+397,Andy Wilkinson,Stoke,DEF,100,2,0,3.8
+398,Ryan Shawcross,Stoke,DEF,100,7,340,5.3
+399,Robert Huth,Leicester,DEF,100,0.5,132,4.7
+400,Marc Wilson,Stoke,DEF,100,1.2,223,4.3
+401,Geoff Cameron,Stoke,DEF,100,3.4,260,4.2
+402,Erik Pieters,Stoke,DEF,100,0.9,330,4.6
+403,Marc Muniesa,Stoke,DEF,100,0.2,188,4.2
+404,Phil Bardsley,Stoke,DEF,100,0.5,271,4.9
+405,Dionatan do Nascimento Teixeira,Stoke,DEF,100,0,1,4.2
+406,Ryan Shotton,Stoke,DEF,0,0.2,0,4
+407,Stephen Ireland,Stoke,MD,100,0.1,149,4.7
+408,Charlie Adam,Stoke,MD,100,1,308,5.4
+409,Glenn Whelan,Stoke,MD,100,0,333,4.9
+410,Wilson Palacios,Stoke,MD,,0.2,0,4.3
+411,Jonathan Walters,Stoke,MD,100,3.1,486,5.1
+412,Steven N'Zonzi,Stoke,MD,100,0.5,479,4.9
+413,Brek Shea,Stoke,MD,0,0,0,4.3
+414,Jamie Ness,Stoke,MD,0,0,0,4.4
+415,Charlie Ward,Stoke,MD,,0.1,0,4.3
+416,Steve Sidwell,Stoke,MD,100,1.2,24,5
+417,Marko Arnautovic,Stoke,MD,100,0.6,288,6.2
+418,Peter Odemwingie,Stoke,MD,100,0.3,34,6.1
+419,Peter Crouch,Stoke,FWD,100,1.4,269,5.6
+420,Cameron Jerome,Stoke,FWD,,0.1,0,5
+421,Mame Biram Diouf,Stoke,FWD,100,0.6,476,6.1
+422,Vito Mannone,Sunderland,GK,100,4.4,87,4.1
+423,Costel Pantilimon,Sunderland,GK,100,4.1,277,4.5
+424,John O'Shea,Sunderland,DEF,100,7.5,291,4.6
+425,Wes Brown,Sunderland,DEF,100,0.4,210,4.3
+426,Modibo Diakité,Sunderland,DEF,0,0.4,0,4
+427,Valentin Roberge,Sunderland,DEF,0,0.1,2,4
+428,Billy Jones,Sunderland,DEF,100,0.1,151,4.3
+429,Adam Johnson,Sunderland,MD,100,2.4,325,5.9
+430,Lee Cattermole,Sunderland,MD,100,2.6,236,4.3
+431,Sebastian Larsson,Sunderland,MD,100,4.4,468,5.3
+432,Alfred N'Diaye,Sunderland,MD,0,0,0,4.5
+433,Tavares Varela Adilson Cabral,Sunderland,MD,0,0,0,4.3
+434,Emanuele Giaccherini,Sunderland,MD,100,0,41,5.8
+435,El-Hadji Ba,Sunderland,MD,0,0,0,4.5
+436,Charalampos Mavrias,Sunderland,MD,0,0,0,4.3
+437,Liam Bridcutt,Sunderland,MD,100,0.3,118,4.2
+438,Liam Agnew,Sunderland,MD,,0.1,0,4.3
+439,Jordi Gomez Garcia-Penche,Sunderland,MD,100,0.8,328,5.1
+440,Connor Wickham,Sunderland,FWD,100,1.1,363,5.6
+441,Steven Fletcher,Sunderland,FWD,100,0.4,254,5
+442,Mikael Mandron,Sunderland,FWD,100,0.1,-4,4.3
+443,David Moberg-Karlsson,Sunderland,FWD,0,0,0,4.5
+444,Jozy Altidore,Sunderland,FWD,0,0.2,31,5.1
+445,Ignacio Scocco,Sunderland,FWD,,0,0,5
+446,Danny Graham,Sunderland,FWD,100,0.2,94,4.7
+447,Michel Vorm,Spurs,GK,100,0.4,46,4.7
+448,Lukasz Fabianski,Swansea,GK,100,8.2,409,5.3
+449,Ashley Williams,Swansea,DEF,100,9.1,447,5.4
+450,Neil Taylor,Swansea,DEF,100,4.7,378,4.8
+451,Alan Tate,Swansea,DEF,100,0.1,0,3.9
+452,Angel Rangel,Swansea,DEF,100,0.5,273,4.9
+453, Chico,Swansea,DEF,0,0,0,5
+454,Kyle Bartley,Swansea,DEF,100,1.2,61,3.9
+455,Ben Davies,Spurs,DEF,0,0.8,126,4.4
+456,Dwight Tiendalli,Swansea,DEF,100,0,10,4.3
+457,Jordi Amat,Swansea,DEF,0,0.2,80,4.1
+458,Ashley Richards,Swansea,DEF,100,0.4,70,4
+459,Stephen Kingsley,Swansea,DEF,100,0,0,4.3
+460,Wayne Routledge,Swansea,MD,100,0.9,310,5.4
+461,Nathan Dyer,Swansea,MD,100,4.6,318,5.2
+462,Leon Britton,Swansea,MD,100,0.1,62,4.4
+463,Pablo Hernández,Swansea,MD,0,0,0,6
+464,Alejandro Pozuelo Melero,Swansea,MD,0,0,0,4.5
+465,Jonjo Shelvey,Swansea,MD,100,3.1,430,5.2
+466,Miguel Michu,Swansea,MD,0,0,0,7.5
+467,José Alberto Cañas Ruiz Herrera,Swansea,MD,0,0.1,0,4.4
+468,Lee Lucas,Swansea,MD,100,0.1,0,4.5
+469,Jay Fulton,Swansea,MD,100,0,18,4.4
+470,Adam King,Swansea,MD,,0.1,0,4.3
+471,Sung-yueng Ki,Swansea,MD,100,6.2,488,5.1
+472,Wilfried Bony,Man City,FWD,100,3.8,448,8.1
+473,Rory Donnelly,Swansea,FWD,100,0,0,4.4
+474,Bafétimbi Gomis,Swansea,FWD,100,0.5,302,6.5
+475,Marvin Emnes,Swansea,FWD,100,0,72,4.9
+476,Boaz Myhill,West Brom,GK,100,13.7,111,4.1
+477,Ben Foster,West Brom,GK,0,3.9,256,4.5
+478,Jonas Olsson,West Brom,DEF,100,0.1,95,4.6
+479,Gareth McAuley,West Brom,DEF,100,0.3,214,4.7
+480,Craig Dawson,West Brom,DEF,100,3.7,330,4.5
+481,Liam O'Neil,West Brom,DEF,,0.3,0,3.9
+482,Donervon Daniels,West Brom,DEF,0,0.1,0,3.9
+483,Joleon Lescott,West Brom,DEF,100,3.7,377,5.1
+484,Chris Baird,West Brom,DEF,100,2.6,80,3.8
+485,Sébastien Pocognoli,West Brom,DEF,100,0.2,150,4.1
+486,Stéphane Sessegnon,West Brom,MD,100,0.3,255,5.4
+487,George Thorne,West Brom,MD,0,0,0,4.5
+488,Graham Dorrans,West Brom,MD,100,0.3,203,4.7
+489,Craig Gardner,West Brom,MD,100,0.1,375,5.5
+490,James Morrison,West Brom,MD,100,0.1,386,5.5
+491,Youssuf Mulumbu,West Brom,MD,100,0.1,81,4.6
+492,Chris Brunt,West Brom,MD,100,0.8,389,5.2
+493,Claudio Yacob,West Brom,MD,100,0.2,149,4.4
+494,Kemar Roofe,West Brom,MD,100,0,0,4.4
+495,Victor Anichebe,West Brom,FWD,100,0.2,154,4.9
+496,Saido Berahino,West Brom,FWD,100,11.4,574,5.6
+497,Jussi Jääskeläinen,West Ham,GK,,0.6,5,4.2
+498,Adrián San Miguel del Castillo,West Ham,GK,,2.9,386,5.2
+499,James Collins,West Ham,DEF,100,0.3,229,4.4
+500,Joey O'Brien,West Ham,DEF,100,0.4,53,4.2
+501,Winston Reid,West Ham,DEF,100,0.7,287,4.8
+502,Guy Demel,West Ham,DEF,100,0.2,30,4.7
+503,Daniel Potts,West Ham,DEF,,0.3,0,3.9
+504,James Tomkins,West Ham,DEF,100,0.3,251,4.6
+505,Leo Chambers,West Ham,DEF,,0.7,0,3.9
+506,Aaron Cresswell,West Ham,DEF,,5.2,510,5.6
+507,Stewart Downing,West Ham,MD,100,18.7,615,5.9
+508,Mark Noble,West Ham,MD,100,1.3,351,5.3
+509,Ravel Morrison,West Ham,MD,100,0,4,4.8
+510,Kevin Nolan,West Ham,MD,100,1.1,226,6.2
+511,Mohamed Diamé,Hull,MD,100,0.8,125,5.1
+512,Alou Diarra,West Ham,MD,,0.1,0,4.5
+513,Matthew Jarvis,West Ham,MD,100,0,34,5.2
+514,Cheikhou Kouyaté,West Ham,MD,100,0.5,368,4.9
+515,Diego Poyet,West Ham,MD,100,0.4,5,4.3
+516,Andy Carroll,West Ham,FWD,0,0.2,178,6.3
+517,Ricardo Vaz Te,West Ham,FWD,100,1.5,26,4.1
+518,Modibo Maiga,West Ham,FWD,0,0,0,4.9
+519,Elliot Lee,West Ham,FWD,100,0.2,1,4.3
+520,Carlton Cole,West Ham,FWD,100,0.6,106,4.6
+521,Mauro Zárate,QPR,FWD,100,0.4,135,6.1
+522,Diego Da Silva Costa,Chelsea,FWD,100,28.6,707,10.6
+523,Lukas Jutkiewicz,Burnley,FWD,100,0.2,82,4.4
+524,Lazar Markovic,Liverpool,MD,100,0.2,150,7
+525,Rémy Cabella,Newcastle,MD,100,0.9,285,7
+526,Emmanuel Riviere,Newcastle,FWD,100,0.4,107,6.7
+527,Daryl Janmaat,Newcastle,DEF,100,7.5,388,5.3
+528,Filipe Luis Kasmirski,Chelsea,DEF,100,2.2,152,5.3
+529,Rio Ferdinand,QPR,DEF,100,2.3,87,4.2
+530,Enner Valencia,West Ham,FWD,100,0.7,336,6.3
+531,Brown Ideye,West Brom,FWD,100,0.1,223,4.8
+532,Leonardo Ulloa,Leicester,FWD,100,8.1,446,5
+533,Bojan Krkic,Stoke,FWD,0,2.5,219,4.9
+534,Steven Caulker,QPR,DEF,100,4.8,308,4.6
+535,Gerhard Tremmel,Swansea,GK,,0.1,6,4.4
+536,Fraizer Campbell,Crystal Palace,FWD,100,1.1,149,5
+537,Jefferson Montero,Swansea,MD,100,0.2,288,5.4
+538,Zoumana Bakayogo,Leicester,DEF,100,0.2,0,4
+539,Alan Hutton,Aston Villa,DEF,100,7.8,312,4.3
+540,Kurt Zouma,Chelsea,DEF,100,0.8,137,4.2
+541,Patrick van Aanholt,Sunderland,DEF,100,4.6,260,4.1
+542,Didier Drogba,Chelsea,FWD,100,1,185,5.9
+543,David Ospina,Arsenal,GK,100,4,241,5
+544,Muhamed Besic,Everton,MD,100,0.3,145,4.5
+545,Andrew Robertson,Hull,DEF,100,0.5,170,4.2
+546,Harry Maguire,Hull,DEF,100,0.1,16,4.1
+547,Brede Hangeland,Crystal Palace,DEF,,0.7,147,4.6
+548,Eric Dier,Spurs,DEF,100,11.1,346,4.6
+549,Facundo Ferreyra,Newcastle,FWD,100,0.1,0,5.6
+550,Javier Manquillo,Liverpool,DEF,,0.3,93,4.4
+551,Frank Lampard,Man City,MD,100,1.2,344,5
+552,Jordon Mutch,Crystal Palace,MD,100,0.6,71,5
+553,Jason Davidson,West Brom,DEF,100,0,7,4.2
+554,Cristian Gamboa,West Brom,DEF,100,0.1,30,4.1
+555,Bradley Jones,Liverpool,GK,100,0,13,4.9
+556,Saphir Taïder,Southampton,MD,0,0,0,5.4
+557,Mauricio Isla,QPR,DEF,100,0.3,259,4.6
+558,Aly Cissokho,Aston Villa,DEF,100,3.2,200,4.4
+559,Bruno Zuculini,Man City,MD,0,0,0,5.5
+560,Fraser Forster,Southampton,GK,0,6.7,308,5.3
+561,Santiago Vergini,Sunderland,DEF,100,1.3,297,4.5
+562,Eliaquim Mangala,Man City,DEF,100,1,312,6
+563,Rolando Aarons,Newcastle,MD,100,0.1,25,4.7
+564,Jerome Binnom-Williams,Crystal Palace,DEF,0,0,0,4.4
+565,Reece James,Man Utd,DEF,100,0.1,0,4.3
+566,Tyler Blackett,Man Utd,DEF,100,0.9,66,3.9
+567,Christian Atsu,Everton,MD,100,0.1,17,5.7
+568,William Buckley,Sunderland,MD,100,0,97,5
+569,Florin Gardos,Southampton,DEF,100,0.1,86,4
+570,Diafra Sakho,West Ham,FWD,100,1.7,325,5.2
+571,Francis Coquelin,Arsenal,MD,100,0.4,262,4.5
+572,Damian Emiliano Martinez,Arsenal,GK,,0.1,33,4.5
+573,Tom Hopper,Leicester,FWD,100,0.1,0,4.4
+574,Ben Amos,Man Utd,GK,100,0,0,4.5
+575,Josh Sheehan,Swansea,MD,100,0,0,4.4
+576,Reece Burke,West Ham,DEF,,0.2,38,4
+577,Kelvin Davis,Southampton,GK,,1.5,55,4.5
+578,Cameron Dummigan,Burnley,DEF,,0.1,0,3.9
+579,Alberto Moreno,Liverpool,DEF,100,5.4,290,5.1
+580,Stephen Ward,Burnley,DEF,100,0,75,4.5
+581,Carlos Sánchez,Aston Villa,MD,,0.4,206,4.4
+582,Marcos Rojo,Man Utd,DEF,100,0.7,263,5.7
+583,Leroy Fer,QPR,MD,100,0.7,338,5.2
+584,Federico Fernández,Swansea,DEF,100,0.2,297,4.9
+585,Eduardo Vargas,QPR,FWD,100,0.1,234,6.1
+586,Georgios Samaras,West Brom,FWD,100,0,16,4.7
+587,Mario Balotelli,Liverpool,FWD,100,1.2,172,9.2
+588,Ángel Di María,Man Utd,MD,100,9.5,416,9.4
+589,Samuel Eto'o,Everton,FWD,0,0.6,131,5.2
+590,Silvestre Varela,West Brom,MD,0,0,52,6
+591,Federico Fazio,Spurs,DEF,100,0.1,271,4.7
+592,Esteban Cambiasso,Leicester,MD,100,2.5,331,4.8
+593,Alexandre Song,West Ham,MD,100,0.3,275,4.8
+594,Abel Hernández,Hull,FWD,100,0.1,178,6.3
+595,Benjamin Stambouli,Spurs,MD,,0,58,4.6
+596,Ricardo Álvarez,Sunderland,MD,100,0,59,5.7
+597,Daley Blind,Man Utd,MD,100,1,362,4.9
+598,James McArthur,Crystal Palace,MD,100,0,385,5.2
+599,Morgan Amalfitano,West Ham,MD,100,0.1,190,4.9
+600,Niko Kranjcar,QPR,MD,100,0.1,134,4.3
+601,Toby Alderweireld,Southampton,DEF,100,2.4,345,4.7
+602,Kevin Doyle,Crystal Palace,FWD,,0,3,4.6
+603,Radamel Falcao Garcia,Man Utd,FWD,100,1.8,292,10.3
+604,Sadio Mané,Southampton,MD,100,2.5,514,6.3
+605,Sebastián Blanco,West Brom,MD,,0,0,5.2
+606,Nathaniel Chalobah,Chelsea,MD,0,0,-2,4.3
+607,Alex McCarthy,QPR,GK,100,0.6,27,4
+608,Sam McQueen,Southampton,MD,,0,0,4.5
+609,Adam Smith,Leicester,GK,,0.1,0,4
+610,Luke Daniels,West Brom,GK,0,0.1,0,4
+611,Andreas Pereira,Man Utd,MD,100,0,2,5
+612,Andrew Johnson,Crystal Palace,FWD,0,0,0,4.5
+613,Ryan Mason,Spurs,MD,100,0.2,367,4.5
+614,Jose Pozo,Man City,FWD,100,0,34,4.7
+615,Jason McCarthy,Southampton,DEF,,0.1,1,4
+616,Patrick McNair,Man Utd,DEF,100,0.2,144,4.4
+617,Tom Thorpe,Man Utd,DEF,,0,0,4
+618,Eldin Jakupovic,Hull,GK,,2.7,19,4
+619,Steven Hewitt,Burnley,MD,100,0,0,4.5
+620,Liam Shephard,Swansea,DEF,,0,0,4
+621,Semi Ajayi,Arsenal,DEF,100,0,0,4
+622,Dominic Solanke,Chelsea,FWD,,0,0,5
+623,Rory Watson,Hull,GK,100,0.1,0,4
+624,Anthony Réveillere,Sunderland,DEF,100,0.1,126,4.5
+625,Marnick Vermijl,Man Utd,DEF,,0,0,4
+626,Thomas Robson,Sunderland,DEF,,0,0,4
+627,Modou Barrow,Swansea,FWD,100,0,56,4.4
+628,Sebastian Lletget,West Ham,MD,,0,0,4.5
+629,Remie Streete,Newcastle,DEF,0,0,0,4
+630,Cristian Ceballos,Spurs,MD,,0,0,5
+631,Dominic Ball,Spurs,DEF,,0,0,4
+632,Jack Butland,Stoke,GK,,0.1,33,4.5
+633,Ryan Huddart,Arsenal,GK,,0,0,4
+634,Oliver Shenton,Stoke,MD,,0,0,4.4
+635,Matthew Macey,Arsenal,GK,,0,0,4
+636,Jak Alnwick,Newcastle,GK,100,0.7,42,3.9
+637,Chris Herd,Aston Villa,DEF,0,0,0,4
+638,Will Keane,Man Utd,FWD,0,0,0,4.5
+639,Jose Angel Esmoris Tasende,Man City,DEF,,0,0,4.5
+640,Ainsley Maitland-Niles,Arsenal,MD,,0,0,4.4
+641,Jake Hesketh,Southampton,MD,100,0,4,4.9
+642,Haris Vuckic,Newcastle,MD,0,0,1,4.4
+643,Freddie Woodman,Newcastle,GK,,0,0,4
+644,Mark Schwarzer,Leicester,GK,,0.1,44,4.5
+645,David Cornell,Swansea,GK,100,0.1,0,4
+646,Riccardo Calder,Aston Villa,MD,,0,0,4.5
+647,Thierry Ambrose,Man City,FWD,,0,0,4.5
+648,Dominic Gape,Southampton,MD,,0,0,4.5
+649,Ryan Seager,Southampton,FWD,,0,0,4.5
+650,Oluwaseyi Ojo,Liverpool,MD,,0,0,5
+651,Russell Griffiths,Everton,GK,,0.1,0,4
+652,Danny Ward,Liverpool,GK,100,0.1,0,4
+653,Adil Nabi,West Brom,FWD,,0,0,4.5
+654,Víctor Valdés,Man Utd,GK,100,0.1,16,4.9
+655,Eljero Elia,Southampton,MD,100,0.7,121,4.3
+656,Philipp Wollscheid,Stoke,DEF,100,0.3,97,4.2
+657,Matt Grimes,Swansea,MD,,0,6,4.9
+658,Nélson Miguel Castro Oliveira,Swansea,FWD,100,0,59,5.5
+659,Doneil Henry,West Ham,DEF,100,0,0,3.9
+660,DeAndre Yedlin,Spurs,DEF,,0,0,4.3
+661,Carles Gil de Pareja Vicent,Aston Villa,MD,100,0.1,34,4.2
+662,Jermain Defoe,Sunderland,FWD,100,2.5,226,4.8
+663,Andrej Kramaric,Leicester,FWD,,0.1,99,5
+664,Jordan Williams,Liverpool,DEF,100,0,0,4
+665,Gabriel Armando de Abreu,Arsenal,DEF,100,0,73,5.1
+666,Krystian Bielik,Arsenal,MD,,0,0,4.4
+667,Callum McManaman,West Brom,MD,100,0,53,4.4
+668,Shola Ameobi,Crystal Palace,FWD,100,0,0,4.5
+669,Andreas Christensen,Chelsea,DEF,,0,2,4.5
+670,Ruben Loftus-Cheek,Chelsea,MD,,0,11,5
+671,Reece Oxford,West Ham,DEF,,0,0,4
+672,Jack Rose,West Brom,GK,,0.2,0,4
+673,Juan Cuadrado,Chelsea,MD,,0.1,59,7.2
+674,Filip Djuricic,Southampton,MD,100,0,33,5.7
+675,Chung-yong Lee,Crystal Palace,MD,100,0,6,5
+676,Dame N'Doye,Hull,FWD,100,0.4,222,5.5
+677,Jake Flannigan,Southampton,MD,,0,0,4.5
+678,Michael Doughty,QPR,MD,100,0,5,4.5
+679,Pape Souaré,Crystal Palace,DEF,100,0,77,4.3
+680,Darnell Furlong,QPR,DEF,100,0,22,3.9
+681,Anderson Luis de Carvalho,West Ham,MD,,0,8,5.3
+682,Duncan Watmore,Sunderland,FWD,,0,0,4.5
+683,Jake Gray,Crystal Palace,MD,,0,0,4.5
+684,Reece Grego-Cox,QPR,MD,,0,10,4.3
+685,Brandon Comley,QPR,MD,,0,1,4.4
+686,Emmanuel Onariase,West Ham,DEF,,0,0,4
+687,Josh Cullen,West Ham,MD,,0,0,4.5
+688,Lewis Kinsella,Aston Villa,DEF,100,0,0,4
+689,Rushian Hepburn-Murphy,Aston Villa,FWD,,0,1,4.4
+690,Olivier Kemen,Newcastle,MD,,0,0,4.5
+691,Cameron Brannagan,Liverpool,MD,,0,0,4.5
+692,Frankie Sutherland,QPR,MD,,0,0,4.5
+693,Fredrik Ulvestad,Burnley,MD,,0,10,4.5
+694,Aaron Mitchell,QPR,MD,,0,0,4.5
+695,Jamie Sterry,Newcastle,DEF,,0,0,4
+696,George Honeyman,Sunderland,MD,,0,0,4.5
+697,Raheem Hanley,Swansea,DEF,,0,0,4
+698,Mitchell Beeney,Chelsea,GK,,0,0,4
+699,Jerome Sinclair,Liverpool,FWD,,0,2,4.5
+700,Brendan Galloway,Everton,DEF,,0,22,4
+701,Jamal Blackman,Chelsea,GK,,0,0,4
+702,Tyler Roberts,West Brom,FWD,,0,0,4.5
+703,Alex Palmer,West Brom,GK,,0,0,4
+704,Jed Steer,Aston Villa,GK,,0,4,4
+705,Andre Green,Aston Villa,FWD,,0,0,4.5
+706,Jeremie Boga,Chelsea,MD,,0,0,4.5
+707,Jordan Pickford,Sunderland,GK,,0,0,4
+708,Kenji Gorre,Swansea,MD,,0,1,4.5
+709,Joshua Onomah,Spurs,MD,,0,0,4.5
+710,Cole Kpekawa,QPR,DEF,,0,0,4
+711,Michael Petrasso,QPR,MD,,0,0,4.5
