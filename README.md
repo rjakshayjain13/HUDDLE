@@ -1,0 +1,3 @@
+# HUDDLE
+
+While machine learning has been put into use for fantasy sports predictions, very little efforts have been made to come up with concrete team selection strategies for Football Fantasy Premier League (FPL). The main challenge is to select players which provide good statistical performance relative to their price in the draft. The purpose of this project is to create models to facilitate player selection decision-making for FPL players, and player replacement strategies for a football team manager. Certain techniques such as several classification algorithms, time-series prediction analysis, random walk graph kernel algorithms are employed to achieve the goal of the project.
